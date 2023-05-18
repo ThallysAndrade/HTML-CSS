@@ -1,0 +1,3 @@
+vídeo sobre semântica e tags obsoletas. Para checar as tags obsoletas, vá ao site w3c.
+html = semântica
+css = estilo, forma
